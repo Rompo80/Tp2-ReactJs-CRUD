@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buildApp/static/css/main.c2cab247.css",
+    "main.js": "/buildApp/static/js/main.34a5faf6.js",
+    "index.html": "/buildApp/index.html",
+    "main.c2cab247.css.map": "/buildApp/static/css/main.c2cab247.css.map",
+    "main.34a5faf6.js.map": "/buildApp/static/js/main.34a5faf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.34a5faf6.js"
+  ]
+}

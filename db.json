@@ -1,0 +1,22 @@
+{
+  "movieList": [
+    {
+      "id": 1,
+      "name": "Despicable Me2",
+      "description": "2013 | More gadgets, more minions, more mayhem! As Gru turns his back on his baddie ways to care for his girls, a secret agency recruits him to fight evil.",
+      "type": "Comedies"
+    },
+    {
+      "id": 2,
+      "name": "The Sea Beast",
+      "description": "2022 | When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot",
+      "type": "Family Movies"
+    },
+    {
+      "id": 3,
+      "name": "Hotel Transylvania 5",
+      "description": "2015 | After Mavis weds Jonathan and baby Dennis arrives, Dracula looks for proof that his grandson is a vampire and needs to remain in Transylvania.",
+      "type": "Comedies"
+    }
+  ]
+}
